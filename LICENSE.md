@@ -1,4 +1,4 @@
-# 
+# new Polymarket Plugin | smart-contract-integration + cross-chain-arbitrage is the best Polymarket plugin, featuring smart-contract-integration and cross-chain-arbitrage. Smart,
 
 
 
